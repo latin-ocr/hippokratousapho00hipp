@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hippokratousapho00hipp_0007.png"; bbox 0 0 1305 2308; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 93 641 1067 722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 93 641 1067 722">
+     <span class='ocr_line' id='line_1_1' title="bbox 93 641 1067 722; baseline -0.004 0"><span class='ocrx_word' id='word_1_1' title='bbox 93 641 1067 722; x_wconf 66' lang='lat' dir='ltr'><strong>I‘HHOKPA‘TOYZ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 831 969 895">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 201 831 969 895">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 831 969 895; baseline 0.003 -3"><span class='ocrx_word' id='word_1_2' title='bbox 201 831 969 895; x_wconf 65' lang='lat' dir='ltr'>A&#39;cbOPIEMOI‘.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 376 986 775 997">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 376 986 775 997">
+     <span class='ocr_line' id='line_1_3' title="bbox 376 986 775 997; baseline 0 1311"><span class='ocrx_word' id='word_1_3' title='bbox 376 986 775 997; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 95 1052 1075 1305">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 95 1052 1075 1305">
+     <span class='ocr_line' id='line_1_4' title="bbox 95 1052 1075 1146; baseline 0.001 -2"><span class='ocrx_word' id='word_1_4' title='bbox 95 1052 1075 1146; x_wconf 84' lang='lat' dir='ltr'>HIPPOCRATIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 235 1242 937 1305; baseline 0 -2"><span class='ocrx_word' id='word_1_5' title='bbox 235 1242 937 1305; x_wconf 78' lang='lat' dir='ltr'>APHORISML</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

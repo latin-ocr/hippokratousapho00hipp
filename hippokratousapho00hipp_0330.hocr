@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hippokratousapho00hipp_0330.png"; bbox 0 0 1305 2308; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 266 209 1160 442">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 266 209 1160 442">
+     <span class='ocr_line' id='line_1_1' title="bbox 272 209 1000 275; baseline -0.007 -14"><span class='ocrx_word' id='word_1_1' title='bbox 272 228 357 275; x_wconf 87' lang='lat'>304</span> <span class='ocrx_word' id='word_1_2' title='bbox 440 209 1000 258; x_wconf 80' lang='lat' dir='ltr'><strong>PRAEFATIO.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 270 292 1160 360; baseline -0.006 -18"><span class='ocrx_word' id='word_1_3' title='bbox 270 297 503 344; x_wconf 80' lang='lat' dir='ltr'>rationem</span> <span class='ocrx_word' id='word_1_4' title='bbox 519 332 535 355; x_wconf 83' lang='lat'><strong>‚</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 553 294 662 360; x_wconf 82' lang='lat' dir='ltr'>quia</span> <span class='ocrx_word' id='word_1_6' title='bbox 692 292 848 341; x_wconf 86' lang='lat' dir='ltr'>brevis</span> <span class='ocrx_word' id='word_1_7' title='bbox 872 308 969 340; x_wconf 85' lang='lat' dir='ltr'><strong>esse</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 985 304 1129 358; x_wconf 84' lang='lat' dir='ltr'>cogor</span> <span class='ocrx_word' id='word_1_9' title='bbox 1145 326 1160 350; x_wconf 92' lang='lat'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 266 377 1115 442; baseline -0.006 -8"><span class='ocrx_word' id='word_1_10' title='bbox 266 401 370 434; x_wconf 81' lang='lat' dir='ltr'>non</span> <span class='ocrx_word' id='word_1_11' title='bbox 388 382 548 433; x_wconf 87' lang='lat' dir='ltr'>reddo.</span> <span class='ocrx_word' id='word_1_12' title='bbox 595 381 767 431; x_wconf 87' lang='lat' dir='ltr'>Fruere</span> <span class='ocrx_word' id='word_1_13' title='bbox 781 418 796 442; x_wconf 93' lang='lat'>,</span> <span class='ocrx_word' id='word_1_14' title='bbox 827 378 935 429; x_wconf 85' lang='lat' dir='ltr'>fave</span> <span class='ocrx_word' id='word_1_15' title='bbox 951 417 967 442; x_wconf 82' lang='grc'>,</span> <span class='ocrx_word' id='word_1_16' title='bbox 995 377 1115 430; x_wconf 85' lang='lat' dir='ltr'><strong>vale.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 549 518 880 721">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 549 518 880 721">
+     <span class='ocr_line' id='line_1_4' title="bbox 549 518 880 586; baseline -0.009 -17"><span class='ocrx_word' id='word_1_17' title='bbox 549 518 700 586; x_wconf 59' lang='grc' dir='ltr'>Καιρὶν</span> <span class='ocrx_word' id='word_1_18' title='bbox 743 521 880 578; x_wconf 69' lang='grc' dir='ltr'><strong><em>γνῶθι.</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 591 652 847 721; baseline -0.012 -16"><span class='ocrx_word' id='word_1_19' title='bbox 591 654 717 712; x_wconf 70' lang='grc' dir='ltr'><strong><em>Ὀξῗις</em></strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 744 652 847 721; x_wconf 69' lang='grc' dir='ltr'>Ύάς.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 591 788 848 861">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 591 788 848 861">
+     <span class='ocr_line' id='line_1_6' title="bbox 591 788 848 861; baseline 0 -21"><span class='ocrx_word' id='word_1_21' title='bbox 591 789 720 861; x_wconf 85' lang='lat' dir='ltr'>Aph.</span> <span class='ocrx_word' id='word_1_22' title='bbox 742 788 779 841; x_wconf 87' lang='lat'>1.</span> <span class='ocrx_word' id='word_1_23' title='bbox 808 807 848 840; x_wconf 89' lang='lat'>1.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
